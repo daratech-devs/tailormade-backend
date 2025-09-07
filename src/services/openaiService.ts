@@ -32,6 +32,7 @@ CRITICAL INSTRUCTIONS:
 - DO NOT include any placeholders like [Your Name], [Your Phone Number], [Your Email], [Your Address], etc.
 - DO NOT include contact information, personal details, or placeholder text
 - Use ONLY information that can be directly inferred from the provided resume content
+- When hightlighting years of experience, stick to what's provided on the CV
 - If specific details cannot be inferred, omit them entirely rather than using placeholders
 - Focus on skills, experience, achievements, and qualifications mentioned in the resume
 
@@ -95,7 +96,7 @@ CRITICAL INSTRUCTIONS:
 - Use ONLY information that can be directly inferred from the provided resume content and job description
 - If specific details like company name, hiring manager name, or personal contact info cannot be inferred, use generic but professional alternatives
 - Start with "Dear Hiring Manager" if no specific contact is mentioned
-- End with "Sincerely," followed by a line break (no name placeholder)
+- End with "Sincerely," followed by a line break and the name derived from the provided resume content.
 - Focus on experience, skills, and achievements from the resume
 
 Instructions:
